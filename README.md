@@ -1,4 +1,4 @@
-<img align="right" width="500" height="400" src="https://media.giphy.com/media/LPgFwCQg4HQBvPihcn/giphy.gif">
+<img align="right" width="400" height="400" src="https://media.giphy.com/media/75ZaxapnyMp2w/giphy.gif">
 
 # Gabriel Silva, 19 old
 
