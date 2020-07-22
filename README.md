@@ -1,4 +1,4 @@
-<img align="right" width="400" height="400" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+<img align="right" width="400" height="400" src="https://media.giphy.com/media/LPgFwCQg4HQBvPihcn/giphy.gif">
 
 # Hi, welcome to my profile!
 
