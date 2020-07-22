@@ -4,7 +4,7 @@
 
 ## Hi 👋, let me present a little about myself!
 
-- I'm 19 old and I'm currently working as full-stack developer at Programmer's - Beyond IT, in Matão city. On my free time I like to play electric guitar, play games, pratice my English and create some cool applications using new technologies, such as bots for Twitter and Discord.
+- I'm 19 old and I'm currently working as full-stack developer at Programmer's - Beyond IT, in Matão city. On my free time I like to play electric guitar, play games, pratice my English and create some cool applications using new technologies, such as cool bots for Twitter and Discord.
 
 ## 🚀 Technical skills
 
