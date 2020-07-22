@@ -10,7 +10,7 @@
 
 - Back-end development using C# and Node.js
 - Front-end development using Angular
-- Relational and nonrelational databases
+- Relational and non relational databases
 - Git
 - SOLID principles
 - DDD
