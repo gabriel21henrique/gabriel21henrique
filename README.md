@@ -4,7 +4,7 @@ Welcome to my GitHub profile. Let me present a little bit about myself for you..
 
 ## About me
 
-My name is Gabriel Silva and I currently live in Matão — a São Paulo’s inland city —, Brazil. I'm working as full-stack developer intern at Programmer's Beyond IT and studying System Analysis and Development at Fatec Taquaritinga, on the last semester. On my free time I like to read and watch stuffs about the universe, play electric guitar, play games, pratice my English and read books.
+My name is Gabriel Silva and I currently live in Matão — a São Paulo’s inland city —, Brazil. I'm working as full stack developer intern at Programmer's Beyond IT and studying System Analysis and Development at Fatec Taquaritinga, on the last semester. On my free time I like to read and watch stuffs about the universe, play electric guitar, play games, pratice my English and read books.
 
 ## Detailed information
 
@@ -19,7 +19,7 @@ My name is Gabriel Silva and I currently live in Matão — a São Paulo’s inl
 - Obtain the Microsoft Exam 70-483 (Programming in C#)
 - Improve my English
 
-<img align="align:middle" width="250" height="250" src="https://media.giphy.com/media/26AHqZycSplGWWPAI/giphy.gif">
+<img align="middle" width="250" height="250" src="https://media.giphy.com/media/26AHqZycSplGWWPAI/giphy.gif">
 
 ## 🔗 Links
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-silva-521793163/)](https://www.linkedin.com/in/gabriel-silva-521793163/)
