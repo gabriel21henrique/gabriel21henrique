@@ -1,22 +1,25 @@
 <img align="right" width="250" height="250" src="https://media.giphy.com/media/26AHqZycSplGWWPAI/giphy.gif">
 
-# Welcome! 👨‍💻
+## Hello there
 
-## Hi 👋, let me present a little about myself!
+Welcome to my GitHub profile. Let me present a little bit about myself for you...
 
-- I'm 19 old and I'm currently working as full-stack developer at Programmer's - Beyond IT, in Matão city. On my free time I like to play electric guitar, play games, pratice my English and create some cool applications using new technologies, such as cool bots for Twitter and Discord.
+## About me
 
-## 🚀 Skills
+My name is Gabriel Silva and I currently live in Matão — a São Paulo’s inland city —, Brazil. I'm working as full-stack developer intern at Programmer's Beyond IT and studying System Analysis and Development at Fatec Taquaritinga, on the last semester. On my free time I like to read and watch stuffs about the universe, play electric guitar, play games, pratice my English and read books.
 
-- C#, .NET, ASP.NET and Node.js
-- Angular, JavaScript, TypeScript, HTML and CSS
-- Relational and non relational databases
-- Git
-- SOLID principles
-- DDD, TDD
-- Docker
-- Clean Code
-- Scrum
+## Detailed information
+
+* **Name**: Gabriel Henrique da Silva
+* **Age**: 19
+* **Living in**: Matão, São Paulo - Brazil
+* **Stack**: C# - Node.js - Angular.js
+* **University**: System Analysis and Development at Fatec Taquaritinga
+
+## Currently focused on
+
+- Get the Microsoft Exam 70-483 (Programming in C#)
+- Improve my English
 
 ## 🔗 Links
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-silva-521793163/)](https://www.linkedin.com/in/gabriel-silva-521793163/)
