@@ -1,4 +1,4 @@
-<img align="right" width="50" height="50" src="https://camo.githubusercontent.com/7db6f7d140cc3dd23f48773c1daabdee5853f4c4/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f32364148715a796353706c4757575041492f67697068792e676966">
+<img align="right" width="250" height="250" src="https://media.giphy.com/media/26AHqZycSplGWWPAI/giphy.gif">
 
 # Welcome! 👨‍💻
 
