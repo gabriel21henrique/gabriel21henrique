@@ -15,8 +15,8 @@ I'm a space enthusiast, and on my free time I like to read and watch stuffs abou
 * **Name**: Gabriel Henrique da Silva
 * **Age**: 19
 * **Living in**: Matão, São Paulo - Brazil
-* **Working using**: C# - Angular.js - SQL Server
-* **Another stack:**: Node.js - TypeScript - MongoDB
+* **Main tech stack**: C# - Angular.js - SQL Server
+* **Secondary tech stack**: Node.js - TypeScript - MongoDB
 * **University**: System Analysis and Development at Fatec Taquaritinga
 
 ## Currently focused on
@@ -26,6 +26,7 @@ I'm a space enthusiast, and on my free time I like to read and watch stuffs abou
 - Finish my university article about fake news spreading through bots on social media
 
 ## Links
+
 <div>
   <a href="https://in.linkedin.com/in/gabriel21henrique">
     <img align="left" alt="My LinkedIn" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
