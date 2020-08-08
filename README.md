@@ -25,7 +25,7 @@ On my free time I like to read and watch stuffs about the universe, play electri
 - Finish my university article about fake news spreading through bots on social media
 
 ## Links
-<div>
+<div align="center">
   <a href="https://in.linkedin.com/in/TheDudeThatCode">
     <img align="left" alt="Shubhamdeep Jha | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
   </a>
