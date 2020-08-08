@@ -22,8 +22,8 @@ I'm a space enthusiast, and on my free time I like to read and watch stuffs abou
 ## Currently focused on
 
 - Obtain the Microsoft Exam 70-483 (Programming in C#)
-- Improve my English
 - Finish my university article about fake news spreading through bots on social media
+- Improve my English
 
 ## Links
 
