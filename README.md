@@ -6,16 +6,17 @@ Welcome to my GitHub profile. Let me present a little bit about myself for you..
 
 My name is Gabriel Silva and I currently live in Matão — a São Paulo’s inland city —, Brazil.
 
-I'm working as full stack developer intern at Programmer's Beyond IT and studying System Analysis and Development at Fatec Taquaritinga, on the last semester.
+I'm working as full stack developer intern at Programmer's Beyond IT and studying System Analysis and Development at Fatec Taquaritinga, on the last semester. I also completed the computer technician course.
 
-On my free time I like to read and watch stuffs about the universe, play electric guitar, play games, pratice my English and read books.
+I'm a space enthusiast, and on my free time I like to read and watch stuffs about the universe, play electric guitar, photograph, play games, pratice my English and read some books. Feel free to contact me if you want to!
 
 ## Detailed information
 
 * **Name**: Gabriel Henrique da Silva
 * **Age**: 19
 * **Living in**: Matão, São Paulo - Brazil
-* **Stack**: C# - Node.js - Angular.js
+* **Working using**: C# - Angular.js - SQL Server
+* **Another stack:**: Node.js - TypeScript - MongoDB
 * **University**: System Analysis and Development at Fatec Taquaritinga
 
 ## Currently focused on
