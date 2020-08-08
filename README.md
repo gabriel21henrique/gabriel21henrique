@@ -24,8 +24,8 @@ My name is Gabriel Silva and I currently live in Matão — a São Paulo’s inl
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabrielsilva7731@gmail.com)](mailto:gabrielsilva7731@gmail.com)
 
 <p align="center">
-  <img align="center" width="250" src="https://media.giphy.com/media/26AHqZycSplGWWPAI/giphy.gif">
+  <img width="250" src="https://media.giphy.com/media/26AHqZycSplGWWPAI/giphy.gif">
   
-  ## Thanks for visiting!
+  Thanks for visiting!
 </p>
 
