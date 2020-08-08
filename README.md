@@ -29,16 +29,15 @@ On my free time I like to read and watch stuffs about the universe, play electri
   <a href="https://in.linkedin.com/in/gabriel21henrique">
     <img align="left" alt="My LinkedIn" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
   </a>
-  <a href="https://twitter.com/gabriel7731s">
-    <img align="left" alt="My Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
-  </a>
-  <a href="https://www.instagram.com/gabriel21henrique/">
+  <a href="https://www.instagram.com/gabriel21henrique">
     <img align="left" alt="My Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
   </a>
   <a href="mailto:gabrielsilva7731@gmail.com">
     <img align="left" alt="My e-mail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
   </a>
 </div>
+
+</br>
 
 <div align="center">
   <img width="250" height="250" src="https://media.giphy.com/media/26AHqZycSplGWWPAI/giphy.gif">
