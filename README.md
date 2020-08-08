@@ -19,7 +19,7 @@ My name is Gabriel Silva and I currently live in Matão — a São Paulo’s inl
 - Obtain the Microsoft Exam 70-483 (Programming in C#)
 - Improve my English
 
-## 🔗 Links
+## Links
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-silva-521793163/)](https://www.linkedin.com/in/gabriel-silva-521793163/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabrielsilva7731@gmail.com)](mailto:gabrielsilva7731@gmail.com)
 
@@ -27,4 +27,5 @@ My name is Gabriel Silva and I currently live in Matão — a São Paulo’s inl
   <img width="250" src="https://media.giphy.com/media/26AHqZycSplGWWPAI/giphy.gif">
 
    ## Thanks for your time!
+   </br>
 </div>
