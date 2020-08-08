@@ -45,7 +45,6 @@ Please feel free to contact me if you want to!
 
 <div align="center">
   <img width="250" height="250" src="https://media.giphy.com/media/26AHqZycSplGWWPAI/giphy.gif">
-
    <h3>Thanks for your time!</h3>
    </br>
 </div>
