@@ -27,3 +27,13 @@ My name is Gabriel Silva and I currently live in Matão — a São Paulo’s inl
     <img width="250" src="https://media.giphy.com/media/26AHqZycSplGWWPAI/giphy.gif">
 ## Thanks for visiting!  
 </div>
+
+
+<p align="center"> 
+  <img width="250" src="https://media.giphy.com/media/26AHqZycSplGWWPAI/giphy.gif">
+</p>
+
+<div align="center">
+
+## Thanks for your time!
+</div>
