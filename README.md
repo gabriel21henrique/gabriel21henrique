@@ -26,7 +26,7 @@ On my free time I like to read and watch stuffs about the universe, play electri
 
 ## Links
 <div>
-  <<a href="https://in.linkedin.com/in/gabriel21henrique">
+  <a href="https://in.linkedin.com/in/gabriel21henrique">
     <img align="left" alt="My LinkedIn" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
   </a>
   <a href="https://twitter.com/gabriel7731s">
