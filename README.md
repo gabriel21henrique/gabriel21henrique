@@ -8,7 +8,9 @@ My name is Gabriel Silva and I currently live in Matão — a São Paulo’s inl
 
 I'm working as full stack developer intern at Programmer's Beyond IT and studying System Analysis and Development at Fatec Taquaritinga, on the last semester. I also completed the computer technician course.
 
-I'm a space enthusiast, and on my free time I like to read and watch stuffs about the universe, play electric guitar, photograph, play games, pratice my English and read some books. Feel free to contact me if you want to!
+I'm a space enthusiast, and on my free time I like to read and watch stuffs about the universe, play electric guitar, photograph, play games, pratice my English and read some books.
+
+Please feel free to contact me if you want to!
 
 ## Detailed information
 
