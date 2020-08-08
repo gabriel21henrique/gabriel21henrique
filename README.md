@@ -4,7 +4,11 @@ Welcome to my GitHub profile. Let me present a little bit about myself for you..
 
 ## About me
 
-My name is Gabriel Silva and I currently live in Matão — a São Paulo’s inland city —, Brazil. I'm working as full stack developer intern at Programmer's Beyond IT and studying System Analysis and Development at Fatec Taquaritinga, on the last semester. On my free time I like to read and watch stuffs about the universe, play electric guitar, play games, pratice my English and read books.
+My name is Gabriel Silva and I currently live in Matão — a São Paulo’s inland city —, Brazil.
+
+I'm working as full stack developer intern at Programmer's Beyond IT and studying System Analysis and Development at Fatec Taquaritinga, on the last semester.
+
+On my free time I like to read and watch stuffs about the universe, play electric guitar, play games, pratice my English and read books.
 
 ## Detailed information
 
