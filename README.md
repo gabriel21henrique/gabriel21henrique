@@ -17,7 +17,7 @@ I'm a space enthusiast, and on my free time I like to read and watch stuffs abou
 * **Living in**: Matão, São Paulo - Brazil
 * **Main tech stack**: C# - Angular.js - SQL Server
 * **Secondary tech stack**: Node.js - TypeScript - MongoDB
-* **University**: System Analysis and Development at Fatec Taquaritinga
+* **University course**: System Analysis and Development at Fatec Taquaritinga
 
 ## Currently focused on
 
