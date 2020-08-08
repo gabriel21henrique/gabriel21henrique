@@ -18,6 +18,7 @@ My name is Gabriel Silva and I currently live in Matão — a São Paulo’s inl
 
 - Obtain the Microsoft Exam 70-483 (Programming in C#)
 - Improve my English
+- Finish my university article about fake news spreading through bots on social media
 
 ## Links
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-silva-521793163/)](https://www.linkedin.com/in/gabriel-silva-521793163/)
