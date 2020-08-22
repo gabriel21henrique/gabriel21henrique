@@ -15,7 +15,7 @@ Please feel free to contact me if you want to!
 ## Detailed information
 
 * **Name**: Gabriel Henrique da Silva
-* **Age**: 19
+* **Age**: 20
 * **Living in**: Matão, São Paulo - Brazil
 * **Main tech stack**: C# - Angular.js - SQL Server
 * **Secondary tech stack**: Node.js - TypeScript - MongoDB
