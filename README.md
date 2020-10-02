@@ -6,7 +6,7 @@ Welcome to my GitHub profile. Let me present a little bit about myself for you..
 
 My name is Gabriel Silva and I currently live in Matão — a São Paulo’s inland city —, Brazil.
 
-I'm working as Web Developer at FI Sistemas and studying System Analysis and Development at Fatec Taquaritinga, on the last semester. I also completed the computer technician course.
+I'm working as Systems Development Analyst at Programmer's - Beyond IT and studying System Analysis and Development at Fatec Taquaritinga, on the last semester. I also completed the computer technician course.
 
 I'm a space enthusiast, and on my free time I like to read and watch stuffs about the universe, play electric guitar, photograph, play games, pratice my English and read some books.
 
